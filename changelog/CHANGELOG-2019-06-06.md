@@ -675,3 +675,22 @@
 - gcr.io/google-containers/kube-scheduler:v1.15.0-beta.2
 - gcr.io/google-containers/kube-scheduler:v1.15.0-beta.1
 - gcr.io/google-containers/kubelet-to-gcm:1.2.11
+### 2019-06-06 17:44:00 Update:
+
+- gcr.io/google-containers/proxy-agent:v0.0.1
+- gcr.io/google-containers/slo-monitor:0.11.2
+- gcr.io/google-containers/vpa-recommender:0.5.1
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:da65b6481504e3e014060cd8d7e08764c79ba586
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:ae2f5c7c6f1e8252e0ab210a5f6aab4f766dc056
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:689388185fe7e13fd6fd2fae497c422bd048e611
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:c7e09170d78ded80dfe42a19257e8463810c0442
+- gcr.io/google-containers/vpa-admission-controller:0.4.1
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:4baa941d8df91e5dc1736adea74ce54e564dd782
+- gcr.io/google-containers/ubuntu-nvidia-driver-installer:3094d4b75351008bbd0813a12bdadcd00c9756bf
+- gcr.io/google-containers/vpa-admission-controller:0.5.1
+- gcr.io/google-containers/vpa-recommender:0.4.1
+- gcr.io/google-containers/vpa-updater:0.5.1
+- gcr.io/google-containers/vpa-updater:0.4.1
+- gcr.io/google-containers/watcher-daemonset:latest
+- gcr.io/google-containers/toolbox:20190523-00
+- gcr.io/google-containers/hyperkube-arm64:v1.11.10
