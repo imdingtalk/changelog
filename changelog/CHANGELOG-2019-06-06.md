@@ -775,3 +775,17 @@
 - gcr.io/kubernetes-helm/tiller:v2.9.0-rc4
 - gcr.io/kubernetes-helm/tiller:v2.9.1
 - gcr.io/kubernetes-helm/tiller:v2.9.0-rc5
+### 2019-06-06 17:54:52 Update:
+
+- gcr.io/fluentd-elasticsearch/fluentd:multistage
+- gcr.io/fluentd-elasticsearch/fluentd:v2.4.0
+- gcr.io/fluentd-elasticsearch/fluentd:v2.5.0
+- gcr.io/fluentd-elasticsearch/fluentd:v2.5.2
+- gcr.io/fluentd-elasticsearch/elasticsearch:multistage
+- gcr.io/fluentd-elasticsearch/fluentd-elasticsearch:latest
+- gcr.io/fluentd-elasticsearch/elasticsearch:multi-stage
+- gcr.io/fluentd-elasticsearch/fluentd-elasticsearch:multi-stage
+- gcr.io/fluentd-elasticsearch/elasticsearch:v6.6.0
+- gcr.io/fluentd-elasticsearch/elasticsearch:v6.7.2
+- gcr.io/fluentd-elasticsearch/elasticsearch:v6.8.0
+- gcr.io/fluentd-elasticsearch/elasticsearch:v6.6.1
