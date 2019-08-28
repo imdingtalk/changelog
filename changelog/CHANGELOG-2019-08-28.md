@@ -530,3 +530,10 @@
 
 - gcr.io/kubernetes-helm/tiller:v2.14.2
 - gcr.io/kubernetes-helm/tiller:v2.14.3
+### 2019-08-28 18:24:05 Update:
+
+- gcr.io/google-samples/frontend:v0.1.2
+- gcr.io/google-samples/recommendationservice:v0.1.2
+- gcr.io/google-samples/productcatalogservice:v0.1.2
+- gcr.io/google-samples/loadgenerator:v0.1.2
+- gcr.io/google-samples/checkoutservice:v0.1.2
