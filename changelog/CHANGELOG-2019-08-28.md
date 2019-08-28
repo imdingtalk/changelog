@@ -526,3 +526,7 @@
 - gcr.io/google-containers/kube-scheduler-s390x:v1.17.0-alpha.0
 - gcr.io/google-containers/conformance-arm:v1.16.0-alpha.3
 - gcr.io/google-containers/kube-state-metrics-ppc64le:v1.7.1
+### 2019-08-28 18:21:39 Update:
+
+- gcr.io/kubernetes-helm/tiller:v2.14.2
+- gcr.io/kubernetes-helm/tiller:v2.14.3
