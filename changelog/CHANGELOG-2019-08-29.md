@@ -101,3 +101,7 @@
 - gcr.io/istio-release/servicegraph_debug:release-1.0-20190828-09-16
 - gcr.io/istio-release/proxytproxy:release-1.3-20190828-09-16-distroless
 - gcr.io/istio-release/proxytproxy:release-1.3-20190828-09-16
+### 2019-08-29 17:47:00 Update:
+
+- gcr.io/google-containers/coredns:1.6.2
+- gcr.io/google-containers/node-problem-detector:v0.7.1
