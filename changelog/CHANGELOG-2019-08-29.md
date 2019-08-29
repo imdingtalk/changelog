@@ -105,3 +105,17 @@
 
 - gcr.io/google-containers/coredns:1.6.2
 - gcr.io/google-containers/node-problem-detector:v0.7.1
+### 2019-08-29 17:52:33 Update:
+
+- gcr.io/google-samples/productcatalogservice:v0.1.2
+- gcr.io/google-samples/cartservice:v0.1.2
+- gcr.io/google-samples/currencyservice:v0.1.2
+- gcr.io/google-samples/emailservice:v0.1.2
+- gcr.io/google-samples/checkoutservice:v0.1.2
+- gcr.io/google-samples/loadgenerator:v0.1.2
+- gcr.io/google-samples/paymentservice:v0.1.2
+- gcr.io/google-samples/shippingservice:v0.1.2
+- gcr.io/google-samples/adservice:v0.1.2
+- gcr.io/google-samples/recommendationservice:v0.1.2
+- gcr.io/google-samples/ml-pipeline-webapp-launcher:v2ap
+- gcr.io/google-samples/ml-pipeline-t2ttrain:v2ap
