@@ -107,3 +107,10 @@
 - gcr.io/istio-release/proxy_debug:release-1.3-20190902-10-15-distroless
 - gcr.io/istio-release/proxy_debug:release-1.0-20190902-13-15
 - gcr.io/istio-release/proxy_debug:release-1.2-20190902-11-15
+### 2019-09-03 17:50:12 Update:
+
+- gcr.io/google-containers/ip-masq-agent-amd64:v2.5.0
+- gcr.io/google-containers/ip-masq-agent:v2.5.0
+- gcr.io/google-containers/ip-masq-agent-arm64:v2.5.0
+- gcr.io/google-containers/ip-masq-agent-ppc64le:v2.5.0
+- gcr.io/google-containers/ip-masq-agent-arm:v2.5.0
