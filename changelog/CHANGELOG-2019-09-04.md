@@ -119,3 +119,6 @@
 - gcr.io/google-containers/watcher-daemonset:alpha1
 - gcr.io/google-containers/metrics-server-arm64:v0.3.4
 - gcr.io/google-containers/metrics-server-s390x:v0.3.4
+### 2019-09-04 17:52:36 Update:
+
+- gcr.io/google-samples/ml-pipeline-metadata-logger:v1
