@@ -428,3 +428,7 @@
 - gcr.io/istio-release/proxyv2:master-20190905-09-16-distroless
 - gcr.io/istio-release/install-cni:master-20190905-09-16
 - gcr.io/istio-release/proxyv2:master-20190906-09-16
+### 2019-09-09 18:22:15 Update:
+
+- gcr.io/google-containers/prometheus-to-sd:v0.7.2
+- gcr.io/google-containers/cluster-autoscaler:v1.16.0-beta.1
