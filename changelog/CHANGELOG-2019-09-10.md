@@ -107,3 +107,7 @@
 - gcr.io/istio-release/pilot:release-1.2-20190909-11-16
 - gcr.io/istio-release/pilot:release-1.3-20190909-10-16
 - gcr.io/istio-release/pilot:release-1.3-20190909-10-16-distroless
+### 2019-09-10 17:53:07 Update:
+
+- gcr.io/google-containers/ingress-gce-glbc-amd64:v1.7.0
+- gcr.io/google-containers/cluster-autoscaler:v1.16.0
