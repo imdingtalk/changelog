@@ -107,3 +107,6 @@
 - gcr.io/istio-release/proxy_debug:release-1.3-20190911-10-16-distroless
 - gcr.io/istio-release/proxy_debug:release-1.1-20190911-12-16
 - gcr.io/istio-release/proxy_debug:release-1.2-20190911-11-16
+### 2019-09-12 17:53:53 Update:
+
+- gcr.io/google-containers/hpa-example2:latest
