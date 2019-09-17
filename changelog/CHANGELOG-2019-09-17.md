@@ -107,3 +107,8 @@
 - gcr.io/istio-release/proxy_debug:release-1.2-20190916-11-16
 - gcr.io/istio-release/proxy_debug:release-1.1-20190916-12-16
 - gcr.io/istio-release/proxy_debug:release-1.0-20190916-13-16
+### 2019-09-17 17:56:21 Update:
+
+- gcr.io/google-containers/vpa-recommender:0.6.1
+- gcr.io/google-containers/vpa-updater:0.6.1
+- gcr.io/google-containers/vpa-admission-controller:0.6.1
