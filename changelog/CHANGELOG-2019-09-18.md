@@ -107,3 +107,33 @@
 - gcr.io/istio-release/sidecar_injector:release-1.3-20190917-10-16-distroless
 - gcr.io/istio-release/servicegraph:release-1.0-20190917-13-16
 - gcr.io/istio-release/servicegraph:release-1.1-20190917-12-16
+### 2019-09-18 17:59:51 Update:
+
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny:1.15.6
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-amd64:1.15.6
+- gcr.io/google-containers/cluster-autoscaler:v1.15.2
+- gcr.io/google-containers/cluster-autoscaler:v1.12.8
+- gcr.io/google-containers/cluster-autoscaler:v1.14.5
+- gcr.io/google-containers/cluster-autoscaler:v1.13.7
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-arm64:1.15.6
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-ppc64le:1.15.6
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-arm:1.15.6
+- gcr.io/google-containers/k8s-dns-dnsmasq-nanny-s390x:1.15.6
+- gcr.io/google-containers/k8s-dns-kube-dns-amd64:1.15.6
+- gcr.io/google-containers/k8s-dns-kube-dns:1.15.6
+- gcr.io/google-containers/k8s-dns-kube-dns-ppc64le:1.15.6
+- gcr.io/google-containers/k8s-dns-node-cache-ppc64le:1.15.6
+- gcr.io/google-containers/k8s-dns-node-cache-arm64:1.15.6
+- gcr.io/google-containers/k8s-dns-kube-dns-arm64:1.15.6
+- gcr.io/google-containers/k8s-dns-node-cache-amd64:1.15.6
+- gcr.io/google-containers/k8s-dns-kube-dns-arm:1.15.6
+- gcr.io/google-containers/k8s-dns-node-cache:1.15.6
+- gcr.io/google-containers/k8s-dns-node-cache-arm:1.15.6
+- gcr.io/google-containers/k8s-dns-node-cache-s390x:1.15.6
+- gcr.io/google-containers/k8s-dns-kube-dns-s390x:1.15.6
+- gcr.io/google-containers/k8s-dns-sidecar-arm:1.15.6
+- gcr.io/google-containers/k8s-dns-sidecar:1.15.6
+- gcr.io/google-containers/k8s-dns-sidecar-amd64:1.15.6
+- gcr.io/google-containers/k8s-dns-sidecar-s390x:1.15.6
+- gcr.io/google-containers/k8s-dns-sidecar-ppc64le:1.15.6
+- gcr.io/google-containers/k8s-dns-sidecar-arm64:1.15.6
