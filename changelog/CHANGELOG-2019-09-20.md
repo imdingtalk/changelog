@@ -91,3 +91,8 @@
 - gcr.io/istio-release/proxy_debug:release-1.3-20190919-10-15-distroless
 - gcr.io/istio-release/proxy_debug:release-1.1-20190919-12-15
 - gcr.io/istio-release/proxy_debug:release-1.2-20190919-11-15
+### 2019-09-20 17:56:43 Update:
+
+- gcr.io/google-containers/cluster-proportional-autoscaler-arm64:1.7.1
+- gcr.io/google-containers/cluster-proportional-autoscaler-arm:1.7.1
+- gcr.io/google-containers/cluster-proportional-autoscaler-ppc64le:1.7.1
