@@ -121,3 +121,11 @@
 - gcr.io/istio-release/proxyv2:release-1.3-20190920-10-15-distroless
 - gcr.io/istio-release/proxyv2:release-1.3-20190920-17-00
 - gcr.io/istio-release/proxyv2:release-1.3-20190920-17-00-distroless
+### 2019-09-21 18:00:08 Update:
+
+- gcr.io/google-containers/metrics-server:v0.3.5
+- gcr.io/google-containers/metrics-server-amd64:v0.3.5
+- gcr.io/google-containers/metrics-server-ppc64le:v0.3.5
+- gcr.io/google-containers/metrics-server-arm64:v0.3.5
+- gcr.io/google-containers/metrics-server-arm:v0.3.5
+- gcr.io/google-containers/metrics-server-s390x:v0.3.5
