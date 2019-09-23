@@ -98,3 +98,6 @@
 - gcr.io/istio-release/mixer_codegen:release-1.3-20190922-10-16
 - gcr.io/istio-release/install-cni:release-1.2-20190922-11-16
 - gcr.io/istio-release/mixer_codegen:release-1.2-20190922-11-16
+### 2019-09-23 17:58:22 Update:
+
+- gcr.io/google-containers/cluster-autoscaler:v1.16.1
