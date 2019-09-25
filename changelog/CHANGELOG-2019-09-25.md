@@ -100,3 +100,7 @@
 - gcr.io/istio-release/servicegraph:release-1.1-20190924-12-15
 - gcr.io/istio-release/mixer:master-20190924-09-15
 - gcr.io/istio-release/mixer:master-20190924-09-15-distroless
+### 2019-09-25 18:01:37 Update:
+
+- gcr.io/google-containers/event-exporter:v0.3.1
+- gcr.io/google-containers/watcher-daemonset:alpha2
