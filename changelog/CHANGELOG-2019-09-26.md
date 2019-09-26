@@ -81,3 +81,6 @@
 - gcr.io/istio-release/proxy_debug:release-1.1-20190925-12-15
 - gcr.io/istio-release/proxy_debug:release-1.3-20190925-10-15-distroless
 - gcr.io/istio-release/proxy_debug:release-1.3-20190925-10-15
+### 2019-09-26 17:57:43 Update:
+
+- gcr.io/google-containers/addon-resizer:1.8.6
