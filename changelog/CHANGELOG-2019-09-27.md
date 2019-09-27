@@ -94,3 +94,6 @@
 - gcr.io/istio-release/galley:release-1.3-20190926-10-16-distroless
 - gcr.io/istio-release/mixer:master-20190926-09-15
 - gcr.io/istio-release/mixer:master-20190926-09-15-distroless
+### 2019-09-27 18:00:27 Update:
+
+- gcr.io/google-containers/kube-cross:v1.12.10-1
