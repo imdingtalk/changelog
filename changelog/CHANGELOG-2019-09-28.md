@@ -92,3 +92,7 @@
 - gcr.io/istio-release/kubectl:release-1.1-20190927-12-16
 - gcr.io/istio-release/kubectl:release-1.2-20190927-11-16
 - gcr.io/istio-release/mixer_codegen:master-20190927-09-16
+### 2019-09-28 17:58:34 Update:
+
+- gcr.io/google-containers/gke-metadata-server:v0.2.10
+- gcr.io/google-containers/gke-metadata-server:2b2c39e51b5516ea87e194706edab17e58ad1096
