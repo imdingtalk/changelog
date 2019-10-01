@@ -104,3 +104,8 @@
 - gcr.io/istio-release/pilot:release-1.3-20190930-10-15
 - gcr.io/istio-release/sidecar_injector:master-20190930-09-15-distroless
 - gcr.io/istio-release/sidecar_injector:1.3.1
+### 2019-10-01 18:02:03 Update:
+
+- gcr.io/google-containers/gke-metadata-server:7b28a8ea4ac0da33ba983aab02168e36d3aa0680
+- gcr.io/google-containers/gke-metadata-server:v0.2.11
+- gcr.io/google-containers/watcher-daemonset:alpha3
