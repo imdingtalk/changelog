@@ -92,3 +92,6 @@
 - gcr.io/istio-release/proxy_debug:release-1.3-20191001-10-15
 - gcr.io/istio-release/proxy_debug:release-1.3-20191001-10-15-distroless
 - gcr.io/istio-release/proxy_debug:release-1.2-20191001-11-15
+### 2019-10-02 18:00:23 Update:
+
+- gcr.io/google-containers/gcp-controller-manager:589980f322ccce64a118660ff58abf6765197c65
