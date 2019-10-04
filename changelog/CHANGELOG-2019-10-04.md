@@ -97,3 +97,6 @@
 - gcr.io/istio-release/proxyv2:release-1.2-20191003-11-15
 - gcr.io/istio-release/proxyv2:release-1.3-20191003-10-15
 - gcr.io/istio-release/proxyv2:release-1.3-20191003-10-15-distroless
+### 2019-10-04 18:02:56 Update:
+
+- gcr.io/google-containers/watcher-daemonset:alpha4
