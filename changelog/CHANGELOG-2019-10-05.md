@@ -61,3 +61,6 @@
 - gcr.io/istio-release/proxy_debug:release-1.3-20191004-10-15
 - gcr.io/istio-release/proxy_debug:release-1.1-20191004-12-15
 - gcr.io/istio-release/proxy_debug:release-1.2-20191004-11-15
+### 2019-10-05 17:59:45 Update:
+
+- gcr.io/google-containers/prometheus-to-sd:v0.8.0
